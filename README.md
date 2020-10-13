@@ -7,6 +7,6 @@ India is the world's third largest producer and third largest consumer of electr
 India has recorded rapid growth in electricity generation since 1985, increasing from 179 TW-hr in 1985 to 1,057 TW-hr in 2012. The majority of the increase came from coal-fired plants and non-conventional renewable energy sources (RES), with the contribution from natural gas, oil, and hydro plants decreasing in 2012-2017. The contribution from renewable energy sources was nearly 20% of the total. In the year 2019-20, all the incremental electricity generation is contributed by renewable energy sources as the power generation from fossil fuels decreased.
 
 # Problem Statement
-pridicitng the electrical energy generation by different parts of the country in the lockdown period.Though, we dont have the data of what amount of the electrical energy was generated in the loackdown period, the energy was still generated. So, the amount of energy generated at that time is being predicted.
+Predicitng the electrical energy generation by different parts of the country in the lockdown period.Though, we dont have the data of what amount of the electrical energy was generated in the loackdown period, the energy was still generated. So, the amount of energy generated at that time is being predicted.
 # Dateset
-we have the dataset available from 2017 to march 2020.by dividing the data into traiing and test set, we will be predicting the energy generation in the months of april may and june(2020).
+We have the dataset available from  1 sept 2017 to 1 august 2020, where the data from 18th march to 31st may 2020 is missing. By dividing the data into traiing and test set, we will be predicting the energy generation in the months with missing data.
