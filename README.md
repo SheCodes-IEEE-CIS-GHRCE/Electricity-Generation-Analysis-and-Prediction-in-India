@@ -50,8 +50,8 @@ Analysing the energy generation by different parts of the country. Predicitng th
 We have the dataset available from  1 sept 2017 to 1 august 2020, where the data from 18th march to 31st may 2020 is missing. By dividing the data into training and test set, we will be predicting actual energy generation for a given region and power type.
 
 # Team Members
-* Kritika Shah
-* Anushree Bansal
-* Anjali Hassani
-* Komal Gaikwad
+* [Kritika Shah](https://github.com/kritikashah20)
+* Anushree Bansal(https://github.com/anu135)
+* Anjali Hassani(https://github.com/AnjaliHassani)
+* Komal Gaikwad(https://github.com/komalgaikwad511)
 
