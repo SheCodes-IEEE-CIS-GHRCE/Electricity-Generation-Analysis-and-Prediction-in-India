@@ -25,18 +25,22 @@ Analysing the energy generation by different parts of the country. Predicitng th
 
 # Implementation using Streamlit
 
+* Select Region where's power is to be predicted 
 <p align="center">
   <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic1.jpeg">
 </p>
 
+* Power(in MU) is predicted for Eastern Region for Hydro Power
 <p align="center">
   <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic2.jpeg">
 </p>
 
+* Power(in MU) is predicted for Western Region for Hydro Power
 <p align="center">
   <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic3.jpeg">
 </p>
 
+* Power(in MU) is predicted for Western Region for Nuclear Power
 <p align="center">
   <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic4.jpeg">
 </p>
