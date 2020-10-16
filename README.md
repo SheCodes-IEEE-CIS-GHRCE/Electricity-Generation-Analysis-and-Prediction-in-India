@@ -4,7 +4,7 @@
 </p>
 
 # Introduction
-This is a Regression project which aims to predict the amount of energy(power) produced by different energy generation techniques used by different parts of the country.
+This is a Regression project which aims to analyse the electricity generation in different regions over the past three years and also predict the amount of energy(power) produced by different energy generation techniques used by different parts of the country.
 
 # Modules/Packages Used
 * Pandas
@@ -51,7 +51,7 @@ We have the dataset available from  1 sept 2017 to 1 august 2020, where the data
 
 # Team Members
 * [Kritika Shah](https://github.com/kritikashah20)
-* [Anushree Bansal](https://github.com/anu135)
-* [Anjali Hassani](https://github.com/AnjaliHassani)
-* [Komal Gaikwad](https://github.com/komalgaikwad511)
+* Anushree Bansal(https://github.com/anu135)
+* Anjali Hassani(https://github.com/AnjaliHassani)
+* Komal Gaikwad(https://github.com/komalgaikwad511)
 
