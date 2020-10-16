@@ -1,6 +1,6 @@
 # Electricity Generation Analysis and Prediction in India
 <p align="center">
-  <img width="460" height="300" src="![Image](https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg)">
+  <img width="600" height="500" src="https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg">
 </p>
 
 # Introduction
