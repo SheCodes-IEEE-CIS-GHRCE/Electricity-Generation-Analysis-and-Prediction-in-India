@@ -51,7 +51,7 @@ We have the dataset available from  1 sept 2017 to 1 august 2020, where the data
 
 # Team Members
 * [Kritika Shah](https://github.com/kritikashah20)
-* Anushree Bansal(https://github.com/anu135)
-* Anjali Hassani(https://github.com/AnjaliHassani)
-* Komal Gaikwad(https://github.com/komalgaikwad511)
+* [Anushree Bansal](https://github.com/anu135)
+* [Anjali Hassani]https://github.com/AnjaliHassani)
+* [Komal Gaikwad](https://github.com/komalgaikwad511)
 
