@@ -1,5 +1,5 @@
 # Electricity Generation Prediction in India
-                                          ![Image](https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg)
+![Image](https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg)
 
 # Introduction
 This is a Regression project which aims to predict the amount of energy(power) produced by different energy generation techniques used by different parts of the country.
