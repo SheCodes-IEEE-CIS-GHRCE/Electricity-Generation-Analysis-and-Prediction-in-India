@@ -23,6 +23,25 @@ India has recorded rapid growth in electricity generation since 1985, increasing
 # Problem Statement
 Analysing the energy generation by different parts of the country. Predicitng the actual amount of electrical energy generation by different parts of the country. Expected value will given by the user and actual value will be predicted. Final model is deployed using Streamlit.
 
+# Implementation using Streamlit
+
+<p align="center">
+  <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic1.jpeg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic2.jpeg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic3.jpeg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Electricity-Generation-Analysis-and-Prediction-in-India/blob/main/SCREENSHOTS/pic4.jpeg">
+</p>
+
+
 # Dateset
 We have the dataset available from  1 sept 2017 to 1 august 2020, where the data from 18th march to 31st may 2020 is missing. By dividing the data into training and test set, we will be predicting actual energy generation for any time.
 
